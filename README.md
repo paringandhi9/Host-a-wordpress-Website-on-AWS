@@ -1,10 +1,6 @@
-
-
-Based on your project details, here's a README file tailored for your GitHub repository on hosting a WordPress website on AWS. This README outlines the project's infrastructure setup, including AWS services used and the script for installing WordPress.
-
----
-
 # Hosting a WordPress Website on AWS
+
+![Alt text](VPC.png)
 
 This project demonstrates the deployment of a WordPress website on Amazon Web Services (AWS), leveraging a highly available and secure architecture. This guide covers the creation of a Virtual Private Cloud (VPC), setup of EC2 instances for web servers, and configuration of various AWS services to ensure the scalability, fault tolerance, and security of the WordPress site.
 
