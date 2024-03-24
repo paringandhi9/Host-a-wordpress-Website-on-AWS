@@ -1,6 +1,9 @@
 
 
 WordPress on AWS
+
+
+
 This GitHub repository provides resources and scripts necessary for deploying a WordPress website on Amazon Web Services (AWS). It aims to utilize AWS's robust infrastructure to ensure high availability, scalability, and security for the WordPress application. By following this guide, you will deploy WordPress within a VPC, utilizing EC2 instances, RDS for the database, EFS for file storage, and more.
 
 Architecture Overview
